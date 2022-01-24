@@ -1,0 +1,31 @@
+NET "hi_in<0>"                  LOC = "P79"| IOSTANDARD = LVCMOS33;
+NET "hi_in<1>"                  LOC = "P57"| IOSTANDARD = LVCMOS33;
+NET "hi_in<2>"                  LOC = "P58"| IOSTANDARD = LVCMOS33;
+NET "hi_in<3>"                  LOC = "P78"| IOSTANDARD = LVCMOS33;
+NET "hi_in<4>"                  LOC = "P61"| IOSTANDARD = LVCMOS33;
+NET "hi_in<5>"                  LOC = "P62"| IOSTANDARD = LVCMOS33;
+NET "hi_in<6>"                  LOC = "P63"| IOSTANDARD = LVCMOS33;
+NET "hi_in<7>"                  LOC = "P64"| IOSTANDARD = LVCMOS33;
+NET "hi_out<0>"                 LOC = "P81"| IOSTANDARD = LVCMOS33;
+NET "hi_out<1>"                 LOC = "P85"| IOSTANDARD = LVCMOS33;
+NET "hi_inout<0>"               LOC = "P67"| IOSTANDARD = LVCMOS33;
+NET "hi_inout<1>"               LOC = "P68"| IOSTANDARD = LVCMOS33;
+NET "hi_inout<2>"               LOC = "P72"| IOSTANDARD = LVCMOS33;
+NET "hi_inout<3>"               LOC = "P74"| IOSTANDARD = LVCMOS33;
+NET "hi_inout<4>"               LOC = "P86"| IOSTANDARD = LVCMOS33;
+NET "hi_inout<5>"               LOC = "P87"| IOSTANDARD = LVCMOS33;
+NET "hi_inout<6>"               LOC = "P90"| IOSTANDARD = LVCMOS33;
+NET "hi_inout<7>"               LOC = "P92"| IOSTANDARD = LVCMOS33;
+NET "hi_inout<8>"               LOC = "P93"| IOSTANDARD = LVCMOS33;
+NET "hi_inout<9>"               LOC = "P94"| IOSTANDARD = LVCMOS33;
+NET "hi_inout<10>"              LOC = "P95"| IOSTANDARD = LVCMOS33;
+NET "hi_inout<11>"              LOC = "P96"| IOSTANDARD = LVCMOS33;
+NET "hi_inout<12>"              LOC = "P97"| IOSTANDARD = LVCMOS33;
+NET "hi_inout<13>"              LOC = "P100"| IOSTANDARD = LVCMOS33;
+NET "hi_inout<14>"              LOC = "P101"| IOSTANDARD = LVCMOS33;
+NET "hi_inout<15>"              LOC = "P102"| IOSTANDARD = LVCMOS33;
+
+NET "clk_pll"     LOC = "P80" | IOSTANDARD = LVCMOS33;
+
+NET "laser_gate"	LOC = "P46" | IOSTANDARD = LVCMOS33;
+NET "shutter"	LOC = "P50" | IOSTANDARD = LVCMOS33;
